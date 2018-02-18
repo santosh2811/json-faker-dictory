@@ -7,13 +7,13 @@
     },
     {
       "id": 2,
-      "title": "principal"
+      "title": "principal",
       "Qualification":"Master"
     },
     {
       "id": 3,
-      "title": "peon"
-      "Qualification":"5 vi pass"
+      "title": "peon",
+      "Qualification":"5th"
     }
     
   ]
