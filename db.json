@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "Teacher",
-      "Qualification":"Degree"
+      "Qualification": "Degree"
     },
     {
       "id": 2,
       "title": "principal",
-      "Qualification":"Master"
+      "Qualification": "Master"
     },
     {
       "id": 3,
       "title": "peon",
-      "Qualification":"5th"
+      "Qualification": "5th"
     }
     
   ]
